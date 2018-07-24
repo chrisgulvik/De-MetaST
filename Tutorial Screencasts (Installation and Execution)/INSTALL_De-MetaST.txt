@@ -1,0 +1,12 @@
+http://code.google.com/p/de-metast-blast/downloads/list
+
+$ cd ~/Downloads
+$ tar -zxvf De-MetaST.tar.gz -C ~/
+
+$ cd ~/De-MetaST
+$ ls
+
+$ make
+$ ls
+
+$ exit
